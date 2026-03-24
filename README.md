@@ -48,6 +48,4 @@ This project demonstrated a basic VAPT workflow involving reconnaissance, scan i
 - `nmap-basic-scan.png`
 - `nmap-filtered-ports.png`
 - `admin-access-result.png`
-- `nmap-basic-scan.png`
-- `nmap-filtered-ports.png`
-- `admin-access-result.png`
+
